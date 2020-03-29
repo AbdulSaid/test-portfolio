@@ -5,3 +5,27 @@
     text-align: center;
 
 }
+
+.imageblock {
+    position: relative;
+}
+
+.text-block {
+    position: absolute;
+    bottom: 20px;
+    text-align: center;
+    /* right: 20px; */
+    background-color: black;
+    color: white;
+    padding-left: 80px;
+    padding-right: 80px;
+  }
+
+  img {
+      width: 250px;
+      height: 250px;
+  }
+
+  a {
+      color: rgb(138, 138, 138);
+  }
